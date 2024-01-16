@@ -7,4 +7,7 @@ Just a project made for fun with ❤️
 
 ![Screenshot 2024-01-15 114657](https://github.com/DeadpoolX7/ShopaHolic-/assets/102269992/834e62f3-1a1d-42b1-8553-451849c703e6)
 
+# 🔗 Here's the link to Website 👇
+https://shopaholic-site.netlify.app/
+
 ## Have a nice day! ✌️
